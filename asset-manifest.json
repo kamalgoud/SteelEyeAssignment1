@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SteelEyeAssignment1/static/css/main.4376de61.css",
+    "main.js": "/SteelEyeAssignment1/static/js/main.22130606.js",
+    "static/js/787.9e682dd7.chunk.js": "/SteelEyeAssignment1/static/js/787.9e682dd7.chunk.js",
+    "index.html": "/SteelEyeAssignment1/index.html",
+    "main.4376de61.css.map": "/SteelEyeAssignment1/static/css/main.4376de61.css.map",
+    "main.22130606.js.map": "/SteelEyeAssignment1/static/js/main.22130606.js.map",
+    "787.9e682dd7.chunk.js.map": "/SteelEyeAssignment1/static/js/787.9e682dd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4376de61.css",
+    "static/js/main.22130606.js"
+  ]
+}
